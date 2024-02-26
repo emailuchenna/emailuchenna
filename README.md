@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emailuchenna
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Node Js and React
-- 💞️ I’m looking to collaborate on JavaScript
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me emailuchenna@gmail.com and +2347037114608 
 
 <!---
